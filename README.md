@@ -61,3 +61,7 @@ Perfect for creating interactive treemap visualizations from spreadsheet data, s
 ## License
 
 MIT License (see LICENSE file)
+d3js compatible JSON from strucured Excel sheet
+VBA code inside the main file "ExcelJSON", the other files are only documentation or examples
+use it with the d3js layout "collapsible tree"
+cheers, karl.
